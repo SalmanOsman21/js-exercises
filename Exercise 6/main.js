@@ -1,4 +1,5 @@
-let colors= ['red', 'green ' , 'Blue'];
+let colors= ["red", "green " , "Blue"];
+
 
 console.log(colors[0]);
 console.log(colors[1]);
