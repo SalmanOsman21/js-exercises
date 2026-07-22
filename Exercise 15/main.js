@@ -4,7 +4,6 @@ const person = [
     {name: "Ali" , age :15 , city:"Hargeysa"}
 ]
  console.log("Proporties and Value of each person")
-
 for(let p of person){
     console.log("---")
     for(let key in p){
