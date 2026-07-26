@@ -7,9 +7,9 @@ async function getUser() {
     }
 
     const users = await response.json();
-    console.log("Users", users);
+    console.log("Users :", users);
   } catch (error) {
-    console.log("Error", error);
+    console.log("Error :", error);
   }
 }
 
